@@ -1,16 +1,16 @@
-### Hi there 👋
+# Assalomu alaykum everyone
+## O'zim haqida qisqacha :
+Men **Xabibullayev Kamronbek** 2005-yil 3-noyabrda
+Namangan viloyati To'raqo'rg'on tumani Katta   qo'rg'oncha qishlog'ida tug'ilganman.
 
-<!--
-**Kamronchik5/Kamronchik5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## This content was take photo about 2007 or 2008 years. If you know !
 
-Here are some ideas to get you started:
+![I am in 2007 or 2008 years](Kamronchik.jpg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Ta'lim olgan muassasalarim :
+- 45-maktab 1-10 sinfgacha
+- 13-ITMA 11-sinf
+- Hozirda Muhammad AL-Xorazmiy nomidagi TATU Dasturiy injiniring fakulteti talabasiman
+
+
+![AT THE MOMENT](<TATU student.jpg>)
