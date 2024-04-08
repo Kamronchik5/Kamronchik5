@@ -14,3 +14,4 @@ Namangan viloyati To'raqo'rg'on tumani Katta   qo'rg'oncha qishlog'ida tug'ilgan
 
 
 ![AT THE MOMENT](<TATU student.jpg>)
+https://leetcode.com/Kamronchik_dev5
